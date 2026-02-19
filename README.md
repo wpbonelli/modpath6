@@ -9,3 +9,12 @@ MODPATH 6 is a particle-tracking post-processing model that computes three-dimen
 ## How to Cite MODPATH 6
 
 Pollock, D.W., 2012, User guide for MODPATH Version 6--A particle-tracking model for MODFLOW: U.S. Geological Survey Techniques and Methods, book 6, chap. A41, 58 p., https://doi.org/10.3133/tm6A41
+
+## Source
+
+Source code was retrieved from https://water.usgs.gov/water-resources/software/MODPATH/modpath.6_0_01.zip.
+
+## Disclaimer
+
+This repository is provided as a courtesy and is not actively maintained. Modifications to the original source may have been made. Use this resource at your own risk; it should be regarded as provisional and not as an authoritative substitute for the official software release by the original authors.
+
